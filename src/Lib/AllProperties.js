@@ -284,6 +284,6 @@ module.exports = [
 		basePrice: 1000000000,
 		basePERatio: 21,
 		downpaymentRatio: 0.23,
-		picture: "100_1.jpg",
+		picture: "101_1.jpg",
 	},
 ];
