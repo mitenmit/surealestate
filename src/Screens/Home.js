@@ -210,7 +210,7 @@ module.exports = React.createClass({
 									<h3>Welcome to surReal Estate</h3>
 									<div>
 									The game where you become a real estate investor.<br /><br />
-									The goal is to <strong>become a billionaire in 100 years</strong>. Your jurney of glory begins in January 2000, when you have saved enought to buy your first property. You pay 10% to 20% of the price(the downpayment) and the bank will lend you the rest. This property will provide a rent in return and you will also be paying loan monthly payments until you repay the debt.<br /><br />
+									The goal is to <strong>become a billionaire in 100 years</strong>. Your journey of glory begins in January 2000, when you have saved enought to buy your first property. You pay 10% to 20% of the price(the downpayment) and the bank will lend you the rest. This property will provide a rent in return and you will also be paying loan monthly payments until you repay the debt.<br /><br />
 									Beware of the economic cycle as real estate and rents will go up and down periodically, indicated by the Real Estate Index in the top right corner of the screen.<br /><br />
 									The game will last around 40 minutes.
 									<div style={{margin: "10px 0", textAlign: "center"}}><button style={plStyles.buyBtn} onClick={this.closeWelcomeModal}>OK, Let&#39;s make some money</button></div>
